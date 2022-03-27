@@ -1,15 +1,15 @@
 {
   "menu": {
-    "scan": "Scan",
-    "receive": "Receive",
-    "pasteFromClipboard": "Paste from Clipboard",
-    "sendToLightningAddress": "Send to Lightning Address",
-    "contactsAndServices": "Contacts & Services",
-    "lightningBrowser": "Lightning Browser",
+    "scan": "Escaner",
+    "receive": "Recibir",
+    "pasteFromClipboard": "Copiar del portapapeles ",
+    "sendToLightningAddress": "Enviar a dirección Lightning" ,
+    "contactsAndServices": "Contactos & Servicios ",
+    "lightningBrowser": "Navegador Lightning",
     "onChainWallet": "On-chain",
-    "lightningChannels": "Lightning Channels",
-    "keysendExperiment": "Keysend Experiment",
-    "showMore": "Advanced"
+    "lightningChannels": "Canales Lightning",
+    "keysendExperiment": "Keysend Experimental",
+    "showMore": "Avanzado"
   },
   "madeInSweden": "Made with ⚡ in Sweden"
 }
